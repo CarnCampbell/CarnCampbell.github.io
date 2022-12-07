@@ -861,7 +861,7 @@ blockquote {
     padding: 0;
     flex: 1;
     border-right: none;
-    min-width: 70px;
+    min-width: 100px;
   }
   .media {
     bottom: -2.5em;
